@@ -1,5 +1,4 @@
 # Baton
-
 - @ = Player spawn point
 - # = Wall, cannot be passed by player
 - C = Charging enemy
